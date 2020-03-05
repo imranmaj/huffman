@@ -9,7 +9,7 @@ No dependencies. Requires Python 3.8+.
 ## Usage
 
 ```
-$ python -m huffman compress | decompress <target file> <destination/output file>
+$ python -m huffman (compress | decompress) <target file> <destination/output file>
 ```
 
 ## Examples
